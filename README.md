@@ -1,2 +1,2 @@
 # Face-Detection
-By using HaarCascade We are Detecting The Face and Eye .
+By using HaarCascade I Detecting The Face and Eye .
